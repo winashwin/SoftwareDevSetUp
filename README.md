@@ -1,2 +1,2 @@
 # SoftwareEngineeringHelpers
-Common utilities helpful for Software Engineering
+Common utilities helpful for Software development.
