@@ -15,7 +15,7 @@
         cp = cherry-pick
         amend = commit --amend -m
         master = !git checkout master && git pull origin
-        pu = git push --set-upstream origin
+        pu = push --set-upstream origin
         plo = pull origin
         unstage = reset --soft HEAD^
         h = "!git config -l | grep alias | cut -c 7-"
